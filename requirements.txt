@@ -3,7 +3,7 @@ tgcrypto
 motor
 marshmallow
 umongo
-pymongo
+pymongo[srv]
 pytz
 cinemagoer
 shortzy
